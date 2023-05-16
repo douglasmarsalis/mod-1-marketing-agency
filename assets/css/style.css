@@ -15,8 +15,7 @@ body {
     color: #ffffff;
 }
 
-.header h1 {
-    display: inline-block;
+.header h1 { 
     font-size: 48px;
 }
 
@@ -24,28 +23,22 @@ body {
     color: #d9dcd6;
 }
 
-.header div{
+.header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-/*Added display and float*/
-.header ul {
+/*Added float, padding and font-size*/
+.header a {
     list-style-type: none;
-    display: inline-block;
-    float: right;
-}
-
-.header div ul li {
-    display: inline-block;
-    margin-left: 25px;
-}
-
-a {
-    color: #ffffff;
     text-decoration: none;
+    display: inline;
+    float: right;
+    margin-left: 30px;
+    color: #ffffff;
+    font-size: 20px;
 }
 
 p {
@@ -76,21 +69,21 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/*Changed the width, height and padding to even out the bottom*/
 .benefits {
     margin-right: 20px;
-    padding: 20px;
+    padding: 10px;
     clear: both;
     float: right;
-    width: 20%;
-    height: 100%;
+    width: 250px;
+    height: 940px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 /*Combined classes because they were using same code*/
-.benefit-cost,
 .benefit-lead,
-.benefit-brand {
+.benefit-brand,
+.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -133,14 +126,14 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.footer {
+/*Changed the class to footer because class is not needed.*/
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
