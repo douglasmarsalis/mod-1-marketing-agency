@@ -1,6 +1,6 @@
-Mod-1 Project - Marketing Agency Homepage
+#Mod-1 Project - Marketing Agency Homepage
 
-Description
+##Description
 
 - As a web developer, I want to assist the marketing agency client, So that their site is optimized for search engines.
 - I want to review the source code and make changes to the code as needed.
@@ -11,13 +11,13 @@ Description
 - This webpage will be reviewed by the client to meet their standards.
 - By building this webpage, it also helped me to learn inforamtion on HTML, CSS, Git, GitHub, README markdown information, and Deployment.
 
-User Story
+##User Story
 
 - AS A marketing agency
   I WANT a codebase that follows accessibility standards
   SO THAT our own site is optimized for search engines
 
-Acceptance Criteria
+##Acceptance Criteria
 
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -31,25 +31,26 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-Link to Deployed Website
+##Link to Deployed Website
 
 - https://douglasmarsalis.github.io/mod-1-marketing-agency/
 
-Link to Github Repository
+##Link to Github Repository
 
 - https://github.com/douglasmarsalis/mod-1-marketing-agency.git
 
-Screenshot
+##Screenshot
 
-Instalation
 
-N/A
-
-Credits
+##Instalation
 
 N/A
 
-License
+##Credits
+
+N/A
+
+##License
 
 MIT License
 
