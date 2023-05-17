@@ -1,24 +1,21 @@
 Mod-1 Project - Marketing Agency Homepage
 
-
 Description
 
-* As a web developer, I want to assist the marketing agency client, So that their site is optimized for search engines.
-* I want to review the source code and make changes to the code as needed.
-* I will comment on the changes that I made above the code.
-* I will make sure the code follows industry standards and make sure the code will be cleaner than before.
-* I will add additional code as needed to help the disabled and to improve SEO.
-* I will look for additional problems and fix those issues.
-* This webpage will be reviewed by the client to meet their standards.
-* By building this webpage, it also helped me to learn inforamtion on HTML, CSS, Git, GitHub, README markdown information, and Deployment.
-
+- As a web developer, I want to assist the marketing agency client, So that their site is optimized for search engines.
+- I want to review the source code and make changes to the code as needed.
+- I will comment on the changes that I made above the code.
+- I will make sure the code follows industry standards and make sure the code will be cleaner than before.
+- I will add additional code as needed to help the disabled and to improve SEO.
+- I will look for additional problems and fix those issues.
+- This webpage will be reviewed by the client to meet their standards.
+- By building this webpage, it also helped me to learn inforamtion on HTML, CSS, Git, GitHub, README markdown information, and Deployment.
 
 User Story
 
-* AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-
+- AS A marketing agency
+  I WANT a codebase that follows accessibility standards
+  SO THAT our own site is optimized for search engines
 
 Acceptance Criteria
 
@@ -34,32 +31,23 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-
 Link to Deployed Website
 
-* https://douglasmarsalis.github.io/mod-1-marketing-agency/
-
-
+- https://douglasmarsalis.github.io/mod-1-marketing-agency/
 
 Link to Github Repository
 
-* https://github.com/douglasmarsalis/mod-1-marketing-agency.git
-
-
+- https://github.com/douglasmarsalis/mod-1-marketing-agency.git
 
 Screenshot
-
-
 
 Instalation
 
 N/A
 
-
 Credits
 
 N/A
-
 
 License
 

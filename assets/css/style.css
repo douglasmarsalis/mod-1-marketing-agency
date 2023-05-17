@@ -73,11 +73,11 @@ p {
 /*Changed the width, height and padding to even out the bottom*/
 .benefits {
     margin-right: 20px;
-    padding: 10px;
+    padding: 20px;
     clear: both;
     float: right;
-    width: 250px;
-    height: 940px;
+    width: 20%;
+    height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
