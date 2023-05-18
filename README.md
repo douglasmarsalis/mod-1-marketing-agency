@@ -41,6 +41,7 @@ THEN I find a concise, descriptive title
 
 ##Screenshot
 
+/Users/douglasmarsalis/mod-1-marketing-agency/assets/images/Screenshot_mod-1-marketing-agency.png
 
 ##Instalation
 
