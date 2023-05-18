@@ -2,20 +2,20 @@
 
 ##Description
 
-- As a web developer, I want to assist the marketing agency client, So that their site is optimized for search engines.
-- I want to review the source code and make changes to the code as needed.
-- I will comment on the changes that I made above the code.
-- I will make sure the code follows industry standards and make sure the code will be cleaner than before.
-- I will add additional code as needed to help the disabled and to improve SEO.
-- I will look for additional problems and fix those issues.
-- This webpage will be reviewed by the client to meet their standards.
-- By building this webpage, it also helped me to learn inforamtion on HTML, CSS, Git, GitHub, README markdown information, and Deployment.
+- First item As a web developer, I want to assist the marketing agency client, So that their site is optimized for search engines.
+- Second item I want to review the source code and make changes to the code as needed.
+- Third item I will comment on the changes that I made above the code.
+- Fourth item I will make sure the code follows industry standards and make sure the code will be cleaner than before.
+- Fifth item I will add additional code as needed to help the disabled and to improve SEO.
+- Sixth item I will look for additional problems and fix those issues.
+- Seventh item This webpage will be reviewed by the client to meet their standards.
+- Eighth item By building this webpage, it also helped me to learn inforamtion on HTML, CSS, Git, GitHub, README markdown information, and Deployment.
 
 ##User Story
 
-- AS A marketing agency
-  I WANT a codebase that follows accessibility standards
-  SO THAT our own site is optimized for search engines
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
 
 ##Acceptance Criteria
 
@@ -41,7 +41,7 @@ THEN I find a concise, descriptive title
 
 ##Screenshot
 
-/Users/douglasmarsalis/mod-1-marketing-agency/assets/images/Screenshot_mod-1-marketing-agency.png
+![Screen shot of my webpage](/assets/images/Screenshot_mod-1-marketing-agency.png)
 
 ##Instalation
 
@@ -53,7 +53,7 @@ N/A
 
 ##License
 
-MIT License
+###MIT License
 
 Copyright (c) 2023 Douglas Eric Marsalis
 
